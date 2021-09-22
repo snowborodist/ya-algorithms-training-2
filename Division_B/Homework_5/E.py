@@ -19,4 +19,5 @@ b_i = 0
 c_i = 0
 
 while (a_i < a_len) or (b_i < b_len) or (c_i < c_len):
+    # TODO: Доделать
     pass

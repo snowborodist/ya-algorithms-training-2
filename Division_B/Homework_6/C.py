@@ -1,5 +1,3 @@
-# TODO: Найти решение кубических уравнений и порешать
-
 def f_bin_search(left, right, eps, check, params):
     while left + eps < right:
         m = (left + right) / 2
@@ -27,6 +25,6 @@ parameters = tuple(map(int, input().split()))
 epsilon = 0.0000001
 
 if parameters[0] > 0:
-    print(f_bin_search(-1000, 1000, epsilon, check_pos, parameters))
+    print(f_bin_search(-1000000, 1000000, epsilon, check_pos, parameters))
 else:
-    print(f_bin_search(-1000, 1000, epsilon, check_neg, parameters))
+    print(f_bin_search(-1000000, 1000000, epsilon, check_neg, parameters))
