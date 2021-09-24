@@ -8,6 +8,8 @@
 
 ## Дивизион B
 ### Лекция 1
+[запись](https://www.youtube.com/watch?v=QLhqYNsPIVo&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5&index=1)  
+[разбор](https://www.youtube.com/watch?v=WZgl1GW3lMA)
 | Номер задачи | Решение | Проходит контест | Есть комментарии |
 |:-|:-:|:-:|:-:|
 | [1-A](/Division_B/Homework_1/A.py) | ✅ | ✅ | ⬜ |
@@ -17,6 +19,8 @@
 | [1-E](/Division_B/Homework_1/E.py) | ✅ | ✅ | ⬜ |
 
 ### Лекция 2
+[запись](https://www.youtube.com/watch?v=SKwB41FrGgU&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5&index=2)  
+[разбор](https://www.youtube.com/watch?v=WZgl1GW3lMA)
 | Номер задачи | Решение | Проходит контест | Есть комментарии |
 |:-|:-:|:-:|:-:|
 | [2-A](/Division_B/Homework_2/A.py) | ✅ | ✅ | ⬜ |
@@ -26,6 +30,8 @@
 | [2-E](/Division_B/Homework_2/E.py) | ✅ | ✅ | ⬜ |
 
 ### Лекция 3
+[запись](https://www.youtube.com/watch?v=PUpmV2ieIHA&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5&index=3)  
+[разбор](https://www.youtube.com/watch?v=adZYAsm6kow)
 | Номер задачи | Решение | Проходит контест | Есть комментарии |
 |:-|:-:|:-:|:-:|
 | [3-A](/Division_B/Homework_3/A.py) | ✅ | ✅ | ⬜ |
@@ -35,6 +41,8 @@
 | [3-E](/Division_B/Homework_3/E.py) | ✅ | ✅ | ⬜ |
 
 ### Лекция 4
+[запись](https://www.youtube.com/watch?v=Nb5mW1yWVSs&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5&index=4)  
+[разбор](https://www.youtube.com/watch?v=adZYAsm6kow)
 | Номер задачи | Решение | Проходит контест | Есть комментарии |
 |:-|:-:|:-:|:-:|
 | [4-A](/Division_B/Homework_4/A.py) | ✅ | ✅ | ⬜ |
@@ -44,6 +52,8 @@
 | [4-E](/Division_B/Homework_4/E.py) | ✅ | ✅ | ⬜ |
 
 ### Лекция 5
+[запись](https://www.youtube.com/watch?v=de28y8Dcvkg&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5&index=6)  
+разбор
 | Номер задачи | Решение | Проходит контест | Есть комментарии |
 |:-|:-:|:-:|:-:|
 | [5-A](/Division_B/Homework_5/A.py) | ✅ | ✅ | ⬜ |
@@ -53,6 +63,8 @@
 | [5-E](/Division_B/Homework_5/E.py) | ✅ | ✅ | ⬜ |
 
 ### Лекция 6
+[запись](https://www.youtube.com/watch?v=YENpZexHfuk&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5&index=7)  
+разбор
 | Номер задачи | Решение | Проходит контест | Есть комментарии |
 |:-|:-:|:-:|:-:|
 | [6-A](/Division_B/Homework_6/A.py) | ✅ | ✅ | ⬜ |
@@ -62,6 +74,8 @@
 | [6-E](/Division_B/Homework_6/E.py) | ✅ | ✅ | ⬜ |
 
 ### Лекция 7
+[запись](https://www.youtube.com/watch?v=hGixDBO-p6Q&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5&index=9)  
+разбор
 | Номер задачи | Решение | Проходит контест | Есть комментарии |
 |:-|:-:|:-:|:-:|
 | [7-A](/Division_B/Homework_7/A.py) | ✅ | ✅ | ✅ |
@@ -71,6 +85,8 @@
 | [7-E](/Division_B/Homework_7/E.py) | ✅ | ✅ | ✅ |
 
 ### Лекция 8
+[запись](https://www.youtube.com/watch?v=lEJzqHgyels&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5&index=10)  
+разбор
 | Номер задачи | Решение | Проходит контест | Есть комментарии |
 |:-|:-:|:-:|:-:|
 | 8-A | ⬜ | ⬜ | ⬜ |
