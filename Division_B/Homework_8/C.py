@@ -45,16 +45,37 @@ def fill_tree(tree_list, root_key, relations_map, predecessor=None, depth=0):
 # 3. Строим дерево:
 tree = []
 fill_tree(tree, root, rel_map)
+tree = tree[0]
 
-# from pprint import pprint
-# pprint(tree)
+from pprint import pprint
+pprint(tree, indent=4)
 
 # 4. Определяем функцию LCA (Lowest Common Ancestor, Наименьший Общий Предок)
 
 
+def search(tree_root, key_to_find):
+    if not tree_root:
+        return None
+
+    root_key = tree_root[0]
+    if key_to_find == root_key:
+        return tree_root
+    elif not tree_root[1]:
+        return None
+    else:
+        for ancestor in tree_root[1]:
+            res = search(ancestor, key_to_find)
+            if res:
+                return res
+
+
 # TODO: Написать функцию LCA
 def lca(person_a, person_b) -> str:
-    pass
+    node_a = search(tree, person_a)
+    node_b = search(tree, person_b)
+
+    print(f"found {person_a}: {node_a[3]}, {person_b}: {node_b[3]}")
+
 
 
 # 5. Обрабатываем запросы и выводим результаты
