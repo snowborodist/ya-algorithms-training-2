@@ -90,7 +90,7 @@
 | Номер задачи | Решение | Проходит контест | Есть комментарии |
 |:-|:-:|:-:|:-:|
 | [8-A](/Division_B/Homework_8/A.py) | ✅ | ✅ | ✅ |
-| [8-B](/Division_B/Homework_8/A.py) | ✅ | ✅ | ✅ |
-| 8-C | ⬜ | ⬜ | ⬜ |
+| [8-B](/Division_B/Homework_8/B.py) | ✅ | ✅ | ✅ |
+| [8-C](/Division_B/Homework_8/C.py) | ✅ | ✅ | ✅ |
 | 8-D | ⬜ | ⬜ | ⬜ |
 | 8-E | ⬜ | ⬜ | ⬜ |
