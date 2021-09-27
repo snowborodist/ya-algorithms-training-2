@@ -2,7 +2,7 @@ import sys
 sys.setrecursionlimit(1200)
 
 # TODO: Не забудь поменять имя файла на 'input.txt' перед отправкой в контест
-file = open('input_c_14.txt')
+file = open('input_c_12.txt')
 lines = file.readlines()
 file.close()
 
