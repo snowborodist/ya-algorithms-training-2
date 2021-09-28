@@ -1,4 +1,4 @@
-# ya-algorithms-training-2
+![ya-algorithms-training-2](https://socialify.git.ci/snowborodist/ya-algorithms-training-2/image?font=Inter&language=1&owner=1&pattern=Floating%20Cogs&theme=Light)
 Мои решения задач из тренировок по алгоритмам от Яндекса.
 
 Речь про "Тренировки 2.0", которые проходили в сентябре 2021 года ([ссылка](https://yandex.ru/yaintern/algorithm-training)).  
