@@ -69,7 +69,7 @@
 [разбор](https://www.youtube.com/watch?v=0ExkSKz0Y8U)
 | Номер задачи | Решение | Проходит контест | Есть комментарии |
 |:-|:-:|:-:|:-:|
-| [6-A](/Division_B/Homework_6/A.py) | ✅ | ✅ | ⬜ |
+| [6-A](/Division_B/Homework_6/A.py) | ✅ | ✅ | ✅ |
 | [6-B](/Division_B/Homework_6/B.py) | ✅ | ✅ | ⬜ |
 | [6-C](/Division_B/Homework_6/C.py) | ✅ | ✅ | ⬜ |
 | [6-D](/Division_B/Homework_6/D.py) | ✅ | ✅ | ⬜ |
